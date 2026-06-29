@@ -6,7 +6,7 @@ A **SystemVerilog-based FPGA implementation** of a dual-mode Morse Code Communic
 
 ## Project Overview
 
-This project was developed as part of the **C/C++ for Hardware Engineers** training module. It demonstrates the implementation of a digital Morse code encoder capable of transmitting numeric digits through LED blinking patterns while adhering to standard Morse code timing specifications.
+This project was developed as part of the **Digital System Design** training module. It demonstrates the implementation of a digital Morse code encoder capable of transmitting numeric digits through LED blinking patterns while adhering to standard Morse code timing specifications.
 
 The system supports:
 
